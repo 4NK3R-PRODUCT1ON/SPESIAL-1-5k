@@ -1,5 +1,7 @@
 # SPESIAL-1-5k
 
+<img src:"https://github.com/4NK3R-PRODUCT1ON/SPESIAL-1-5k/blob/master/Screenshot_2020-08-15-12-22-39.png"
+
 $ pkg update && pkg upgrade
 
 $ pkg install git
